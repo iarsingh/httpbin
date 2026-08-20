@@ -1,5 +1,9 @@
 # httpbin(1): HTTP Request & Response Service
 
+<!-- repository-summary -->
+A fork of the Python and Flask HTTP request and response inspection service.
+<!-- /repository-summary -->
+
 
 A [Kenneth Reitz](http://kennethreitz.org/bitcoin) Project.
 
