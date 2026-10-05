@@ -23,7 +23,6 @@ flowchart LR
     M2 -->|imports| M4
     M2 -->|imports| M5
     M2 -->|imports| M6
-    M4 -->|imports| M2
     M4 -->|imports| M5
 ```
 
